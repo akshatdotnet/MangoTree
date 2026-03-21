@@ -1,0 +1,114 @@
+[
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartAPIController",
+    "Method": "AddCart",
+    "RelativePath": "api/cart/AddCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDto",
+        "Type": "Mango.Services.ShoppingCartAPI.Models.Dto.CartDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartAPIController",
+    "Method": "ApplyCoupon",
+    "RelativePath": "api/cart/ApplyCoupon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDto",
+        "Type": "Mango.Services.ShoppingCartAPI.Models.Dto.CartDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartAPIController",
+    "Method": "Checkout",
+    "RelativePath": "api/cart/Checkout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checkoutHeader",
+        "Type": "Mango.Services.ShoppingCartAPI.Messages.CheckoutHeaderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartAPIController",
+    "Method": "GetCart",
+    "RelativePath": "api/cart/GetCart/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartAPIController",
+    "Method": "RemoveCart",
+    "RelativePath": "api/cart/RemoveCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartAPIController",
+    "Method": "RemoveCoupon",
+    "RelativePath": "api/cart/RemoveCoupon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartAPIController",
+    "Method": "UpdateCart",
+    "RelativePath": "api/cart/UpdateCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDto",
+        "Type": "Mango.Services.ShoppingCartAPI.Models.Dto.CartDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Xk7LpOC78aUdSLRtj65jFjVuDgUvaYbbSSVOjYdcRr8=",
+  "Source": "Mango.Services.Email",
+  "BasePath": "_content/Mango.Services.Email",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

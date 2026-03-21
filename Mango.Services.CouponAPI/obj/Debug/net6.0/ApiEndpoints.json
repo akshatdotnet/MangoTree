@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Mango.Services.CouponAPI.Controllers.CouponAPIController",
+    "Method": "GetDiscountForCode",
+    "RelativePath": "api/coupon/{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

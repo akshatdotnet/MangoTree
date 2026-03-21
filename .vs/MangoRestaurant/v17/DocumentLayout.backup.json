@@ -1,0 +1,940 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{744706A6-0B0F-458F-8EDD-9EA6C7E6A581}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744706A6-0B0F-458F-8EDD-9EA6C7E6A581}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744706A6-0B0F-458F-8EDD-9EA6C7E6A581}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{744706A6-0B0F-458F-8EDD-9EA6C7E6A581}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB826D19-F138-4128-AAA5-A53CD9C2307E}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB826D19-F138-4128-AAA5-A53CD9C2307E}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB826D19-F138-4128-AAA5-A53CD9C2307E}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB826D19-F138-4128-AAA5-A53CD9C2307E}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CA616B-519D-40F6-845C-863C3620D12D}|Mango.MessageBus\\Mango.MessageBus.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.messagebus\\azureservicebusmessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CA616B-519D-40F6-845C-863C3620D12D}|Mango.MessageBus\\Mango.MessageBus.csproj|solutionrelative:mango.messagebus\\azureservicebusmessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CA616B-519D-40F6-845C-863C3620D12D}|Mango.MessageBus\\Mango.MessageBus.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.messagebus\\basemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CA616B-519D-40F6-845C-863C3620D12D}|Mango.MessageBus\\Mango.MessageBus.csproj|solutionrelative:mango.messagebus\\basemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CA616B-519D-40F6-845C-863C3620D12D}|Mango.MessageBus\\Mango.MessageBus.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.messagebus\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CA616B-519D-40F6-845C-863C3620D12D}|Mango.MessageBus\\Mango.MessageBus.csproj|solutionrelative:mango.messagebus\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E83F283-BEC4-4E4A-BCC9-C849C818D487}|Mango.Services.Identity\\Mango.Services.Identity.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.identity\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E83F283-BEC4-4E4A-BCC9-C849C818D487}|Mango.Services.Identity\\Mango.Services.Identity.csproj|solutionrelative:mango.services.identity\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1FB1E3-8E26-4256-B47E-4306F737D79D}|Mango.GatewaySolution\\Mango.GatewaySolution.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.gatewaysolution\\mango.gatewaysolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B1FB1E3-8E26-4256-B47E-4306F737D79D}|Mango.GatewaySolution\\Mango.GatewaySolution.csproj|solutionrelative:mango.gatewaysolution\\mango.gatewaysolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\mango.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\mango.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\mango.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\mango.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CA616B-519D-40F6-845C-863C3620D12D}|Mango.MessageBus\\Mango.MessageBus.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.messagebus\\mango.messagebus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7CA616B-519D-40F6-845C-863C3620D12D}|Mango.MessageBus\\Mango.MessageBus.csproj|solutionrelative:mango.messagebus\\mango.messagebus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03F2D5-9D60-48F8-AD9A-15937E12541D}|PaymentProcessor\\PaymentProcessor.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\paymentprocessor\\paymentprocessor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A03F2D5-9D60-48F8-AD9A-15937E12541D}|PaymentProcessor\\PaymentProcessor.csproj|solutionrelative:paymentprocessor\\paymentprocessor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1FB1E3-8E26-4256-B47E-4306F737D79D}|Mango.GatewaySolution\\Mango.GatewaySolution.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.gatewaysolution\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1FB1E3-8E26-4256-B47E-4306F737D79D}|Mango.GatewaySolution\\Mango.GatewaySolution.csproj|solutionrelative:mango.gatewaysolution\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E599883C-08BE-46C4-8FFE-600ACBF5A3E7}|Mango.Services.PaymentAPI\\Mango.Services.PaymentAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E599883C-08BE-46C4-8FFE-600ACBF5A3E7}|Mango.Services.PaymentAPI\\Mango.Services.PaymentAPI.csproj|solutionrelative:mango.services.paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E599883C-08BE-46C4-8FFE-600ACBF5A3E7}|Mango.Services.PaymentAPI\\Mango.Services.PaymentAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.paymentapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E599883C-08BE-46C4-8FFE-600ACBF5A3E7}|Mango.Services.PaymentAPI\\Mango.Services.PaymentAPI.csproj|solutionrelative:mango.services.paymentapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E599883C-08BE-46C4-8FFE-600ACBF5A3E7}|Mango.Services.PaymentAPI\\Mango.Services.PaymentAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E599883C-08BE-46C4-8FFE-600ACBF5A3E7}|Mango.Services.PaymentAPI\\Mango.Services.PaymentAPI.csproj|solutionrelative:mango.services.paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.orderapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.orderapi\\migrations\\20210510202410_pushordertablestodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\migrations\\20210510202410_pushordertablestodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.orderapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E83F283-BEC4-4E4A-BCC9-C849C818D487}|Mango.Services.Identity\\Mango.Services.Identity.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E83F283-BEC4-4E4A-BCC9-C849C818D487}|Mango.Services.Identity\\Mango.Services.Identity.csproj|solutionrelative:mango.services.identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.email\\messaging\\rabbitmqpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|solutionrelative:mango.services.email\\messaging\\rabbitmqpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|solutionrelative:mango.services.email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1075BA8E-DAEC-4248-AD41-7A0AA9529832}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1075BA8E-DAEC-4248-AD41-7A0AA9529832}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.email\\messaging\\iazureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|solutionrelative:mango.services.email\\messaging\\iazureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.email\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|solutionrelative:mango.services.email\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|solutionrelative:mango.services.email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.email\\messaging\\azureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|solutionrelative:mango.services.email\\messaging\\azureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.email\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|solutionrelative:mango.services.email\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.web\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE2513-EE99-4CDD-AF87-27DC35549881}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB826D19-F138-4128-AAA5-A53CD9C2307E}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.productapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB826D19-F138-4128-AAA5-A53CD9C2307E}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.orderapi\\rabbitmqsender\\rabbitmqordermessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\rabbitmqsender\\rabbitmqordermessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.orderapi\\messages\\updatepaymentresultmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\messages\\updatepaymentresultmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.orderapi\\messages\\paymentrequestmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE99702-6DEB-4D46-B4AD-171C55BAB0A3}|Mango.Services.OrderAPI\\Mango.Services.OrderAPI.csproj|solutionrelative:mango.services.orderapi\\messages\\paymentrequestmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.email\\repository\\emailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|solutionrelative:mango.services.email\\repository\\emailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.email\\mango.services.email.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12BA97DA-2F7A-4B65-ADD9-0A20F8971597}|Mango.Services.Email\\Mango.Services.Email.csproj|solutionrelative:mango.services.email\\mango.services.email.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1075BA8E-DAEC-4248-AD41-7A0AA9529832}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.couponapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1075BA8E-DAEC-4248-AD41-7A0AA9529832}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1075BA8E-DAEC-4248-AD41-7A0AA9529832}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.couponapi\\mango.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1075BA8E-DAEC-4248-AD41-7A0AA9529832}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\mango.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744706A6-0B0F-458F-8EDD-9EA6C7E6A581}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.shoppingcartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{744706A6-0B0F-458F-8EDD-9EA6C7E6A581}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744706A6-0B0F-458F-8EDD-9EA6C7E6A581}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|d:\\vaishnav engineering\\code\\.net 8 lts\\empower.business\\empowerbusiness\\dotnet-core\\mangotree\\mango.services.shoppingcartapi\\mango.services.shoppingcartapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{744706A6-0B0F-458F-8EDD-9EA6C7E6A581}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\mango.services.shoppingcartapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AzureServiceBusMessageBus.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.MessageBus\\AzureServiceBusMessageBus.cs",
+              "RelativeDocumentMoniker": "Mango.MessageBus\\AzureServiceBusMessageBus.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.MessageBus\\AzureServiceBusMessageBus.cs",
+              "RelativeToolTip": "Mango.MessageBus\\AzureServiceBusMessageBus.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:28:17.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartAPIController.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:07:24.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:04:46.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\appsettings.json",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ProductAPI\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T15:05:11.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\appsettings.json",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T12:00:46.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseMessage.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.MessageBus\\BaseMessage.cs",
+              "RelativeDocumentMoniker": "Mango.MessageBus\\BaseMessage.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.MessageBus\\BaseMessage.cs",
+              "RelativeToolTip": "Mango.MessageBus\\BaseMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:28:14.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMessageBus.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.MessageBus\\IMessageBus.cs",
+              "RelativeDocumentMoniker": "Mango.MessageBus\\IMessageBus.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.MessageBus\\IMessageBus.cs",
+              "RelativeToolTip": "Mango.MessageBus\\IMessageBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:28:11.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Services\\BaseService.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Services\\BaseService.cs",
+              "RelativeToolTip": "Mango.Web\\Services\\BaseService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwEAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:10:41.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Identity\\Initializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Mango.Services.Identity\\Initializer\\DbInitializer.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Identity\\Initializer\\DbInitializer.cs",
+              "RelativeToolTip": "Mango.Services.Identity\\Initializer\\DbInitializer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAhwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:28:17.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mango.Web.csproj",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Mango.Web.csproj",
+              "RelativeDocumentMoniker": "Mango.Web\\Mango.Web.csproj",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Mango.Web.csproj",
+              "RelativeToolTip": "Mango.Web\\Mango.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T14:41:16.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mango.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAASwFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:54:29.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Mango.Web\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:43:36.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentProcessor.csproj",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\PaymentProcessor\\PaymentProcessor.csproj",
+              "RelativeDocumentMoniker": "PaymentProcessor\\PaymentProcessor.csproj",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\PaymentProcessor\\PaymentProcessor.csproj",
+              "RelativeToolTip": "PaymentProcessor\\PaymentProcessor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T14:41:03.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mango.GatewaySolution.csproj",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.GatewaySolution\\Mango.GatewaySolution.csproj",
+              "RelativeDocumentMoniker": "Mango.GatewaySolution\\Mango.GatewaySolution.csproj",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.GatewaySolution\\Mango.GatewaySolution.csproj",
+              "RelativeToolTip": "Mango.GatewaySolution\\Mango.GatewaySolution.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T14:41:11.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Mango.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:46:35.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mango.Web",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Mango.Web.csproj",
+              "RelativeDocumentMoniker": "Mango.Web\\Mango.Web.csproj",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Mango.Web.csproj",
+              "RelativeToolTip": "Mango.Web\\Mango.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T11:42:35.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mango.MessageBus.csproj",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.MessageBus\\Mango.MessageBus.csproj",
+              "RelativeDocumentMoniker": "Mango.MessageBus\\Mango.MessageBus.csproj",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.MessageBus\\Mango.MessageBus.csproj",
+              "RelativeToolTip": "Mango.MessageBus\\Mango.MessageBus.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T14:41:08.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T13:26:50.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Web\\appsettings.json",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\appsettings.json",
+              "RelativeToolTip": "Mango.Web\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T15:27:09.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Services\\ProductService.cs",
+              "RelativeToolTip": "Mango.Web\\Services\\ProductService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:13:09.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Services\\CartService.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Services\\CartService.cs",
+              "RelativeToolTip": "Mango.Web\\Services\\CartService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:12:34.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T13:26:42.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T14:19:06.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T14:19:02.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T14:54:40.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductCreate.cshtml",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\Product\\ProductCreate.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Product\\ProductCreate.cshtml",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\Product\\ProductCreate.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Product\\ProductCreate.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T14:15:44.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T13:26:59.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T13:26:54.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.GatewaySolution\\Startup.cs",
+              "RelativeDocumentMoniker": "Mango.GatewaySolution\\Startup.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.GatewaySolution\\Startup.cs",
+              "RelativeToolTip": "Mango.GatewaySolution\\Startup.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:27:39.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Services\\IServices\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Services\\IServices\\IBaseService.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Services\\IServices\\IBaseService.cs",
+              "RelativeToolTip": "Mango.Web\\Services\\IServices\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:21:53.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.PaymentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.PaymentAPI\\Program.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.PaymentAPI\\Program.cs",
+              "RelativeToolTip": "Mango.Services.PaymentAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:12:13.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Mango.Services.OrderAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:02:56.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.PaymentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.PaymentAPI\\appsettings.json",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.PaymentAPI\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.PaymentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T08:11:50.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.PaymentAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "Mango.Services.PaymentAPI\\Startup.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.PaymentAPI\\Startup.cs",
+              "RelativeToolTip": "Mango.Services.PaymentAPI\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:12:15.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20210510202410_pushOrderTablesToDb.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\Migrations\\20210510202410_pushOrderTablesToDb.cs",
+              "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Migrations\\20210510202410_pushOrderTablesToDb.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\Migrations\\20210510202410_pushOrderTablesToDb.cs",
+              "RelativeToolTip": "Mango.Services.OrderAPI\\Migrations\\20210510202410_pushOrderTablesToDb.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:02:43.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\appsettings.Development.json",
+              "RelativeToolTip": "Mango.Services.OrderAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T08:01:35.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\appsettings.json",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.OrderAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T14:49:35.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Identity\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.Identity\\appsettings.json",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Identity\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.Identity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T07:59:20.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\appsettings.json",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.CouponAPI\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T13:39:56.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RabbitMQPaymentConsumer.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Messaging\\RabbitMQPaymentConsumer.cs",
+              "RelativeDocumentMoniker": "Mango.Services.Email\\Messaging\\RabbitMQPaymentConsumer.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Messaging\\RabbitMQPaymentConsumer.cs",
+              "RelativeToolTip": "Mango.Services.Email\\Messaging\\RabbitMQPaymentConsumer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:49:07.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.Email\\appsettings.json",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.Email\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T14:47:47.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAzureServiceBusConsumer.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Messaging\\IAzureServiceBusConsumer.cs",
+              "RelativeDocumentMoniker": "Mango.Services.Email\\Messaging\\IAzureServiceBusConsumer.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Messaging\\IAzureServiceBusConsumer.cs",
+              "RelativeToolTip": "Mango.Services.Email\\Messaging\\IAzureServiceBusConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:49:05.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Startup.cs",
+              "RelativeDocumentMoniker": "Mango.Services.Email\\Startup.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Startup.cs",
+              "RelativeToolTip": "Mango.Services.Email\\Startup.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:44:58.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.Email\\Program.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Program.cs",
+              "RelativeToolTip": "Mango.Services.Email\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:44:49.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AzureServiceBusConsumer.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Messaging\\AzureServiceBusConsumer.cs",
+              "RelativeDocumentMoniker": "Mango.Services.Email\\Messaging\\AzureServiceBusConsumer.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Messaging\\AzureServiceBusConsumer.cs",
+              "RelativeToolTip": "Mango.Services.Email\\Messaging\\AzureServiceBusConsumer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:48:52.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.Email\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Mango.Services.Email\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:48:06.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Services\\CouponService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Services\\CouponService.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Web\\Services\\CouponService.cs",
+              "RelativeToolTip": "Mango.Web\\Services\\CouponService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:12:52.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ProductAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ProductAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:05:02.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RabbitMQOrderMessageSender.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\RabbitMQSender\\RabbitMQOrderMessageSender.cs",
+              "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\RabbitMQSender\\RabbitMQOrderMessageSender.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\RabbitMQSender\\RabbitMQOrderMessageSender.cs",
+              "RelativeToolTip": "Mango.Services.OrderAPI\\RabbitMQSender\\RabbitMQOrderMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:51:27.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdatePaymentResultMessage.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\Messages\\UpdatePaymentResultMessage.cs",
+              "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Messages\\UpdatePaymentResultMessage.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\Messages\\UpdatePaymentResultMessage.cs",
+              "RelativeToolTip": "Mango.Services.OrderAPI\\Messages\\UpdatePaymentResultMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:50:23.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PaymentRequestMessage.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\Messages\\PaymentRequestMessage.cs",
+              "RelativeDocumentMoniker": "Mango.Services.OrderAPI\\Messages\\PaymentRequestMessage.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.OrderAPI\\Messages\\PaymentRequestMessage.cs",
+              "RelativeToolTip": "Mango.Services.OrderAPI\\Messages\\PaymentRequestMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:50:18.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EmailRepository.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Repository\\EmailRepository.cs",
+              "RelativeDocumentMoniker": "Mango.Services.Email\\Repository\\EmailRepository.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Repository\\EmailRepository.cs",
+              "RelativeToolTip": "Mango.Services.Email\\Repository\\EmailRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:48:18.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Mango.Services.Email.csproj",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Mango.Services.Email.csproj",
+              "RelativeDocumentMoniker": "Mango.Services.Email\\Mango.Services.Email.csproj",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.Email\\Mango.Services.Email.csproj",
+              "RelativeToolTip": "Mango.Services.Email\\Mango.Services.Email.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T14:48:02.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.CouponAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Startup.cs",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.CouponAPI\\Startup.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:13:30.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Mango.Services.CouponAPI.csproj",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T10:13:20.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T11:59:23.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Mango.Services.ShoppingCartAPI",
+              "DocumentMoniker": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
+              "ToolTip": "D:\\Vaishnav Engineering\\Code\\.NET 8 LTS\\Empower.Business\\EmpowerBusiness\\DotNet-Core\\MangoTree\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T11:58:40.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
